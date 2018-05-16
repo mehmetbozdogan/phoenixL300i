@@ -1,0 +1,7 @@
+file phoenixL300i.template
+{
+	pattern
+	{ sys	sec	dev   }
+	{ TEST	TEST	GLD02 }
+}
+
